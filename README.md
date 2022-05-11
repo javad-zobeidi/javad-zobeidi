@@ -42,5 +42,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/theviralboy/count.svg" />
+  <img src="https://profile-counter.glitch.me/javad-zobeidi/count.svg" />
 </p>
