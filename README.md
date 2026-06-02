@@ -10,7 +10,7 @@
 
 </div>
 
- Hi, I'm Javad Zobeidi , a Mobile And Web Applications Developer From Iran
+ Hi, I'm Javad Zobeidi , a Mobile And Web Applications Developer
 - 💖 I Love Flutter And Laravel 
 - 🌱 I’m currently learning new things in Flutter&Dart And Php&Laravel And NodeJs&Vuejs
 - 💬 Ask me anything about flutter and dart [here](https://github.com/javad-zobeidi/FlutterFarsi/issues)
